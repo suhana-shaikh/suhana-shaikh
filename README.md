@@ -1,5 +1,35 @@
+# Hi there 👋, I'm Suhana Shaikh
 
-## 🌐 Socials:
+🎓 **B.Tech Computer Science & Engineering Student** at **Medi-Caps University, Indore**
+
+💻 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
+
+🌱 I’m currently learning:
+- Machine Learning
+- Deep Learning
+- Python
+- Data Science
+
+🔭 I’m currently working on:
+- AIShield: AI-Powered Adaptive Cybersecurity System
+- Climate Change & Diarrheal Diseases Research
+
+👯 I’m looking to collaborate on:
+- AI & Machine Learning Projects
+- Open Source Projects
+
+💬 Ask me about:
+- Python
+- Machine Learning
+- GitHub
+- Research
+
+📫 Reach me at:
+**shaikhsuhana380@gmail.com**
+
+⚡ Fun Fact:
+I love building AI solutions that solve real-world problems.
+🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhana_23__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhana-shaikh-1361a0287/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B06U35g%2FLRQe0NNjZ6i%2Bmjg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikhsuhana380@gmail.com) 
 
 # 💻 Tech Stack:
